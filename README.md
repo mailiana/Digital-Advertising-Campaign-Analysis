@@ -78,3 +78,92 @@ despite its cost.
 # Visuals
 • Figure 1: Pivot Tables displaying summary figures
 ![Screenshot 2024-11-07 214737](https://github.com/user-attachments/assets/456071d1-3acd-4d17-9f95-9cbd7be7dc3c)
+
+• Figure 2: Pie charts displaying EDA about the campaign Percentage, cost, revenue and
+profit.
+![Screenshot 2024-11-07 215048](https://github.com/user-attachments/assets/20848bed-711a-40b9-a96f-024a597f83a6)
+
+• Figure 3: Line graph tracking month-over-month revenue performance and bar charts to
+showing relations between cost and revenue for each month.
+![Screenshot 2024-11-07 215219](https://github.com/user-attachments/assets/a3051c83-cf30-42bd-95f4-7492c3911a7c)
+
+# Discussion
+The analysis reveals that not all high-cost campaigns result in high revenue, highlighting the
+importance of calculating ROI alongside revenue to measure effectiveness. Campaign A, for
+instance, was not the highest in cost but achieved the highest ROI, indicating a cost-effective
+approach. In contrast, Campaign C’s low ROI suggests a need for strategic adjustments, either
+through reducing its budget or refining its targeting and engagement approach.
+The correlation between cost and revenue suggests that, generally, campaigns with higher costs
+tend to yield more revenue, but this is not a rule across all campaigns. This analysis underscores
+the need for ongoing assessment of campaign performance, as each campaign may respond
+differently depending on audience engagement levels, banner size, and placement.
+
+# Conclusion
+This analysis highlights the critical role of data-driven decisions in digital advertising. By
+examining metrics like revenue, cost, and ROI, we identified which campaigns deliver the highest
+returns and which require adjustment. Campaign A emerged as the most effective, with a high
+ROI, while Campaign C showed potential for improvement. Moving forward, the digital marketing
+department should consider reallocating resources towards high-performing campaigns and
+testing adjustments in underperforming ones.
+
+# Recommendations for Optimizing Digital Advertising Campaigns
+Based on the analysis, the following recommendations are proposed to improve campaign
+performance, maximize return on investment (ROI), and optimize budget allocation:
+
+1. Increase Investment in High-ROI Campaigns (e.g., Campaign 1):
+Since Campaign 1 has the highest ROI, consider increasing its budget to scale its
+performance. Replicating the characteristics that contributed to its success—such as
+its targeting, placement, and engagement strategy—can potentially yield higher returns
+if applied to similar future campaigns.
+
+2. Adjust or Reevaluate Low-Performing Campaigns (e.g., Campaign 3):
+Campaign 3 shows a low ROI and revenue, which suggests it may not be delivering value for its cost. Conduct a deeper review of its targeting, creative content, and placement
+strategy. Testing different ad formats, targeting options, or lowering the budget
+allocation for this campaign might improve cost-efficiency.
+
+3. Optimize Ad Spending Based on Cost-Revenue Correlation Insights:
+The moderate positive correlation between cost and revenue indicates that higher costs
+generally yield higher returns. However, this is not universal, so avoid automatically
+equating higher spending with better performance. Instead, focus on maximizing ROI by
+gradually increasing budgets for campaigns that demonstrate effectiveness and
+reducing budgets for those that do not.
+
+4. Run A/B Testing for Underperforming Campaigns:
+For campaigns with low engagement or conversions, consider running A/B tests to
+experiment with different ad elements (such as creatives, copy, call-to-action, or
+placement). A/B testing can help identify what resonates with the target audience and
+improve campaign performance without excessive budget increases.
+
+5. Prioritize Data-Driven Decision-Making for Budget Allocation:
+Use this analysis framework for ongoing evaluation, with regular assessments of each
+campaign’s key metrics (revenue, cost, ROI). Implement a periodic review system to
+reallocate budget from low-performing to high-performing campaigns based on up-todate data. This iterative approach allows for dynamic adjustments that reflect changing
+market conditions or audience preferences.
+
+6. Implement a Dashboard for Continuous Monitoring:
+Developing a real-time or monthly dashboard to track performance metrics like revenue,
+cost, clicks, and conversions can facilitate continuous optimization. This will help
+quickly identify shifts in campaign effectiveness, allowing for prompt adjustments to
+budget or strategy.
+
+7. Leverage Audience Segmentation for Better Targeting:
+Explore the possibility of segmenting audiences based on engagement levels and
+demographic insights (if available). Targeted campaigns tend to perform better when
+they are highly relevant to specific audience segments, leading to improved conversion
+rates and ROI.
+
+8. Investigate External Factors Influenciing Campaign Performance:
+Consider examining any external factors (e.g., seasonality, competitor activity, or
+platform trends) that might impact campaign effectiveness. For instance, campaigns
+run during peak shopping seasons may yield higher returns. Understanding these
+patterns can guide the timing of future campaigns for optimal impact.
+
+9. Develop a Learning Loop for Campaign Strategy:
+Use the insights gained from this analysis to inform future campaign planning.
+Document lessons learned from successful and unsuccessful campaigns, and apply
+these findings when designing new campaigns. A learning loop helps refine strategies
+over time, improving the overall effectiveness of advertising efforts.
+
+10. Consider Multichannel Analysis for a Holistic View:
+If campaigns are running across multiple platforms, analyze performance across
+channels to identify which platforms provide the best ROI. This information can guide 
