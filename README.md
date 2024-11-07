@@ -60,3 +60,21 @@ o Campaign Performance Summary: Used pivot tables to summarize and
 compare campaign revenue, cost, and clicks.
 o Correlation Analysis: Created scatter plots to explore the relationship between
 cost and revenue.
+3.Data Visualization:
+o Bar Charts: Visualized total revenue, cost, and profit for each campaign.
+o Line Graphs: Tracked campaign performance over time.
+o Dashboard: Developed an interactive dashboard displaying key metrics
+(revenue, cost, ROI) for a clear overview.
+
+# Results
+Key Findings
+1. Revenue Performance: Campaign 1generated the highest revenue and Campaign 3 had
+the lowest. Campaign 1 had the highest profit return.
+2. Cost and Revenue Correlation: A moderate positive correlation was observed between cost and revenue, indicating that higher spending generally led to higher returns,
+although not uniformly across all campaigns.
+3. Return on Investment (ROI): Campaign 1 had the highest ROI, demonstrating costeffectiveness, while Campaign 3 had the lowest ROI, suggesting it was not as profitable
+despite its cost.
+
+# Visuals
+• Figure 1: Pivot Tables displaying summary figures
+![Screenshot 2024-11-07 214737](https://github.com/user-attachments/assets/456071d1-3acd-4d17-9f95-9cbd7be7dc3c)
