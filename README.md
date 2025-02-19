@@ -60,6 +60,7 @@ o Campaign Performance Summary: Used pivot tables to summarize and
 compare campaign revenue, cost, and clicks.
 o Correlation Analysis: Created scatter plots to explore the relationship between
 cost and revenue.
+
 3.Data Visualization:
 o Bar Charts: Visualized total revenue, cost, and profit for each campaign.
 o Line Graphs: Tracked campaign performance over time.
